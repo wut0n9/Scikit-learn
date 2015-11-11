@@ -525,7 +525,3 @@ data  数据集保存在data属性中
 filename  样本所在各个文件的名称
 
 
-
-=======
->>>>>>> origin/master
-
